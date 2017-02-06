@@ -238,7 +238,7 @@ section.col-lg-9 .mythemes-gallery.colls-5 figure.mythemes-item figcaption p {
     .mythemes-gallery.colls-7 figure.mythemes-item figcaption a,
     .mythemes-gallery.colls-8 figure.mythemes-item figcaption a,
     .mythemes-gallery.colls-9 figure.mythemes-item figcaption a{
-        background-image: url( https://www.andrewarthacornwall.com/wp-content/themes/cannyon/media/_frontend/img/zoom.png);
+        background-image: url( ../img/zoom.png);
         background-position: center center;
         background-repeat: no-repeat;
 
@@ -578,7 +578,7 @@ section.col-lg-9 .mythemes-gallery.colls-5 figure.mythemes-item figcaption p {
     .mythemes-gallery.colls-7 figure.mythemes-item figcaption a,
     .mythemes-gallery.colls-8 figure.mythemes-item figcaption a,
     .mythemes-gallery.colls-9 figure.mythemes-item figcaption a{
-        background-image: url( https://www.andrewarthacornwall.com/wp-content/themes/cannyon/media/_frontend/img/zoom.png);
+        background-image: url( ../img/zoom.png);
         background-position: center center;
         background-repeat: no-repeat;
 

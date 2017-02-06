@@ -234,19 +234,19 @@ div.comment-respond form.comment-form textarea{
     padding: 9px 8px;
 }
 div.comment-respond form.comment-form p.comment-form-author input{
-    background-image: url(https://www.andrewarthacornwall.com/wp-content/themes/cannyon/media/_frontend/img/comment-form.author.png);
+    background-image: url(../img/comment-form.author.png);
     background-position: left center;
     background-repeat: no-repeat;
     padding-left: 60px;
 }
 div.comment-respond form.comment-form p.comment-form-email input{
-    background-image: url(https://www.andrewarthacornwall.com/wp-content/themes/cannyon/media/_frontend/img/comment-form.email.png);
+    background-image: url(../img/comment-form.email.png);
     background-position: left center;
     background-repeat: no-repeat;
     padding-left: 60px;
 }
 div.comment-respond form.comment-form p.comment-form-url input{
-    background-image: url(https://www.andrewarthacornwall.com/wp-content/themes/cannyon/media/_frontend/img/comment-form.url.png);
+    background-image: url(../img/comment-form.url.png);
     background-position: left center;
     background-repeat: no-repeat;
     padding-left: 60px;

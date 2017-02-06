@@ -359,7 +359,7 @@ div.widget_categories ul li a,
 div.widget_nav_menu ul li a,
 div.widget_pages ul li a,
 div.widget_post_categories ul li a{
-    background-image: url(https://www.andrewarthacornwall.com/wp-content/themes/cannyon/media/_frontend/img/archives-arrow.png);
+    background-image: url(../img/archives-arrow.png);
     background-position: left center;
     background-repeat: no-repeat;
     color: #1b1b1b;
@@ -544,7 +544,7 @@ footer aside div.widget p{
 footer aside div.widget a h5.footer-widget-title,
 footer aside div.widget h5.footer-widget-title a,
 footer aside div.widget h5.footer-widget-title{
-    background-image: url( 'https://www.andrewarthacornwall.com/wp-content/themes/cannyon/media/_frontend/img/footer-widget-delimiter.png' );
+    background-image: url( '../img/footer-widget-delimiter.png' );
     background-position: bottom left;
     background-repeat: no-repeat;
 
