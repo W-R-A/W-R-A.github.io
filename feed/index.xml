@@ -19,8 +19,7 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
 		<title>I am online!</title>
-		<link>/2016/08/31/i-am-online/</link>
-		<comments>/2016/08/31/i-am-online/#respond</comments>
+		<link>/2016/08/i-am-online/</link>
 		<pubDate>Wed, 31 Aug 2016 10:47:16 +0000</pubDate>
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 				<category><![CDATA[News]]></category>
@@ -29,8 +28,6 @@
 		<description><![CDATA[Online, finally]]></description>
 				<content:encoded><![CDATA[<p>Online, finally</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/08/31/i-am-online/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
