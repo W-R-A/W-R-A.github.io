@@ -293,7 +293,7 @@ img.emoji {
 
 		          		<div class="col-sm-4 col-md-3 col-lg-3 mythemes-posts-found">
 		                    <div class="found-details">
-		                        <span>One Article</span>		                    </div>
+		                        <span>2 Articles</span>		                    </div>
 		                </div>
 
 		        	</div>
@@ -308,7 +308,52 @@ img.emoji {
                 
 <!-- CONTENT -->
 <section class="col-sm-8 col-md-9 col-lg-9 mythemes-classic">
-<article class="post-31 post type-post status-publish format-standard hentry category-news">
+<article class="post-39 post type-post status-publish format-standard hentry category-tech">
+
+    <h2 class="post-title">
+        
+            <a href="/2017/02/technology-used-on-this-website/" title="Technology used on this website">Technology used on this website</a>
+
+            </h2>
+
+            <div class="mythemes-top-meta meta">
+
+            <!-- GET FIRST 2 CATEGORIES -->
+            <ul class="post-categories">
+	<li><a href="/category/tech/" rel="category tag">Technology</a></li></ul>
+            <!-- AUTHOR -->
+                        <a class="author" href="/author/ross/" title="Written by Ross">by Ross</a>
+
+            <!-- DATE -->
+                        <time datetime="2017-02-09">on February 9, 2017</time>
+
+            <!-- COMMENTS -->
+                    </div>
+
+    
+    <div class="post-content">
+
+        <p>An overview of the technology behind this website and how everything fits together.</p>
+<p>A quick note to say that this is not the best or only way to run a website/email but this post is about how I reduce costs as much as possible by combining free services.</p>
+<p>In order to setup a website with email at that domain, several services must work together, in order of how I set them up for andrewarthacornwall.com, here they are:</p>
+<ol>
+<li>Domain</li>
+<li>DNS</li>
+<li>Email</li>
+<li>Hosting</li>
+</ol>
+<p>1) Domain</p>
+<p>The first thing that has to be acquired is a domain name for your website. There are a few options here, with free .tk domains available if you really want to save money, however, SEO ranking may suffer as google penalises sites with the .tk top-level domain. In addition, Zoho, the domain-based email provider, do not support .tk domains. With this site, I went for a .com address due to the fact that it is widely recognised and supported by major service providers. This is currently the only part of my web presence that I actually pay money for. To purchase a name you will need to go to a domain registrar. I use GoDaddy due to the competitive prices and good customer support as well as the fact that they offer domain privacy which protects your personal information from being shown on the whois database.</p>
+<p>2) DNS</p>
+<p>The second thing to setup is DNS or Domain Name Service, it is like a phone book that translates web address such as andrewarthacornwall.com into the IP address of the server hosting the content, such as 31.170.162.44 (Note: This is not the actual IP address of this server). With my site, I use CloudFlare to provide the DNS service due to the reliable anycast network and fast propagating of record updates. In addition, CloudFlare also provides a free CDN or content delivery network which speeds up the website and ensures that it loads quickly, wherever you are.</p>
+<p>3) Email</p>
+<p>The thing in common of all nearly all web services providers is that they require an email account of some sort. As I have the domain name, it seems appropriate to have a custom email address at this domain. This also looks more professional to anyone who needs to contact you and is also very easy to setup with Zoho mail.</p>
+<p>4) Hosting</p>
+<p>This is where your website is hosted from, there are so many hosting services available, with or without a cost involved and with a variety of applications to get your website up and running smoothly. I would always recommend paid hosting from an established company if you are not comfortable with managing your own server. However, if you are comfortable with running your own server, savings can be made. The method that I use is to have a local server, LAMP stack, running on my computer. This allows me to run WordPress, the most popular content management system, that is used to create a website. Once I have finished editing/building in WordPress, I use the Simply Static plugin, <a href="https://en-gb.wordpress.org/plugins/simply-static/">https://en-gb.wordpress.org/plugins/simply-static/</a> which creates a copy of the completed site. This can then be uploaded to GitHub pages which will then host the static content for free.</p>
+        <div class="clearfix"></div>
+
+    </div>
+</article><article class="post-31 post type-post status-publish format-standard hentry category-news">
 
     <h2 class="post-title">
         
