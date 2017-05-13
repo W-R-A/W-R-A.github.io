@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Ross Andrewartha</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Website Development &#8211; Ross Andrewartha</title>
+	<atom:link href="/category/web-dev/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Undergraduate Engineer</description>
 	<lastBuildDate>Wed, 19 Apr 2017 22:46:06 +0000</lastBuildDate>
@@ -62,18 +62,6 @@
 <p>The thing in common of all nearly all web services providers is that they require an email account of some sort. As I have the domain name, it seems appropriate to have a custom email address at this domain. This also looks more professional to anyone who needs to contact you and is also very easy to setup with Zoho mail.</p>
 <p>4) Hosting</p>
 <p>This is where your website is hosted from, there are so many hosting services available, with or without a cost involved and with a variety of applications to get your website up and running smoothly. I would always recommend paid hosting from an established company if you are not comfortable with managing your own server. However, if you are comfortable with running your own server, savings can be made. The method that I use is to have a local server, LAMP stack, running on my computer. This allows me to run WordPress, the most popular content management system, that is used to create a website. Once I have finished editing/building in WordPress, I use the Simply Static plugin, <a href="https://en-gb.wordpress.org/plugins/simply-static/">https://en-gb.wordpress.org/plugins/simply-static/</a> which creates a copy of the completed site. This can then be uploaded to GitHub pages which will then host the static content for free.</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>I am online!</title>
-		<link>/2016/08/i-am-online/</link>
-		<pubDate>Wed, 31 Aug 2016 10:47:16 +0000</pubDate>
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-				<category><![CDATA[News]]></category>
-
-		<guid isPermaLink="false">http://andrewarthacornwall.com/?p=31</guid>
-		<description><![CDATA[Online, finally]]></description>
-				<content:encoded><![CDATA[<p>Online, finally</p>
 ]]></content:encoded>
 			</item>
 	</channel>
