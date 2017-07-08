@@ -23,7 +23,7 @@ from fnmatch import fnmatch
 
 #Define constants
 #Location to look for files to replace
-root = 'D:\Ross\Documents\GitHub\W-R-A.github.io'
+root = 'F:\Ross\Documents\GitHub\W-R-A.github.io'
 
 #What file types to match and replace references in
 pattern = "*.html"
