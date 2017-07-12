@@ -12,11 +12,19 @@
 	<atom:link href="/category/web-dev/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Undergraduate Engineer</description>
-	<lastBuildDate>Tue, 04 Jul 2017 21:28:31 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 08 Jul 2017 23:14:55 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-favicon-32x32.png</url>
+	<title>Website Development &#8211; Ross Andrewartha</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Using WordPress with GitHub Pages</title>
 		<link>/2017/04/using-wordpress-with-github-pages/</link>
